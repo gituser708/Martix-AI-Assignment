@@ -1,18 +1,69 @@
-# React + Vite
+# Matrix AI Consulting Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application built as part of **Company Assignment: Matrix AI Consulting**.  
+This project showcases services, vision, contact form integration, and a professional landing page design using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+[View Live Project](https://martix-ai.vercel.app)
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 📂 GitHub Repository
+[GitHub Repo](https://github.com/gituser708/Martix-AI-Assignment)
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- **Frontend Framework**: React (Vite)
+- **Styling**: Tailwind CSS
+- **Icons**: Heroicons & React Icons
+- **Form Handling**: Formspree integration
+- **Deployment**: Vercel / Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Packages Used
+- `react` – Core library
+- `react-dom` – Rendering
+- `vite` – Development bundler
+- `tailwindcss` – Utility-first CSS framework
+- `@heroicons/react` – Modern SVG icons
+- `react-icons` – Social media & UI icons
+- `@formspree/react` – Contact form integration
+
+---
+
+## 📑 Features
+- Responsive **Navbar** with hamburger toggle
+- Hero section with blurred AI background image
+- Services grid with icons and hover animations
+- Vision section with gradient background
+- Contact form (Formspree) with validation
+- Modern footer with social media links
+- Fully mobile‑friendly design
+
+---
+
+## 🏢 Company Assignment
+This project was developed as part of the **Matrix AI Consulting assignment** to demonstrate:
+- Clean UI/UX principles
+- Responsive layouts
+- Integration of third‑party services (Formspree)
+- Professional documentation and deployment
+
+---
+
+## 📱 Responsive Design
+- **Mobile**: Compact hero, stacked sections, optimized form
+- **Tablet/Desktop**: Dual layouts, expanded grids, full‑width hero
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/gituser708/Martix-AI-Assignment
+cd Martix-AI-Assignment
